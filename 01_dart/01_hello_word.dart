@@ -16,7 +16,7 @@ void main() {
   // with $ interpolate var into string
   print('Hello $name');
 
-  // for a process code use ${ }
+  // for process code use ${ }
   print('Hello ${ name.toUpperCase() }');
   print('Hello ${ 1 + 1 }');
 }
